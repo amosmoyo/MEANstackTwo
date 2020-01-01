@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'frontend';
+  // posts = [];
+
+  /*onPosting(data) {
+    this.posts.push(data);
+  }*/
 }
